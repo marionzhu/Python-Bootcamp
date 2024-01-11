@@ -1,2 +1,8 @@
 # Python-Bootcamp
-Small interesting python games , including Caesar Cipher, Get Changes, Roman Letters etc.
+These are small interesting python games.
+
+-	Caesar Cipher 
+-	Get Changes
+-	Roman Letters
+-	Currency Converter
+-	Distances
